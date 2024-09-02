@@ -1,0 +1,14 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 8AE6-1647
+
+ Directory of C:\Users\saipc\OneDrive\Documents\Soujanya\GitExercise
+
+02-09-2024  11:06    <DIR>          .
+31-08-2024  22:20    <DIR>          ..
+31-08-2024  22:45               926 HelloWorld.class
+31-08-2024  22:45               331 HelloWorld.java
+31-08-2024  22:50               126 Number.java
+31-08-2024  22:35                 0 test.txt
+02-09-2024  11:06                 0 testBranch.txt
+               5 File(s)          1,383 bytes
+               2 Dir(s)  309,523,488,768 bytes free
